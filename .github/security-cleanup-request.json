@@ -1,8 +1,0 @@
-{
-  "schema_version": 1,
-  "repository": "DanielLankry/Simple-CNN-Example",
-  "request_id": "security-cleanup-20261109-Simple-CNN-Example-01",
-  "expected_refs": {
-    "refs/heads/main": "3efca474a28b57a45ddb997bdd2ed57846606eb3"
-  }
-}
